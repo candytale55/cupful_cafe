@@ -2,7 +2,7 @@
 Static HTML5 & CSS3 practice project for layout. Fake coffee shop website.
 
 ## Screenshots
-[![cupful-cafe-screenshot.jpg](cupful-cafe-screenshot.jpg)
+![cupful_cafe_screenshot.jpg](cupful_cafe_screenshot.jpg)
 
 
 ## Technologies
